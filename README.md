@@ -13,4 +13,4 @@ To view the Valentine's Day website, simply visit the following URL: [Valentine'
 
 If you want to host the website locally, you can clone this repository using the following command:
 
-git clone https://github.com/your-username/valentines-website.git
+git clone https://github.com/hoffy923/valentines-website.git
